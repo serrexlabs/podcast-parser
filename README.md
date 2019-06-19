@@ -1,1 +1,1 @@
-This is a fork of  https://npmjs.org/package/rss-parser
+This is a enhanced version of  https://npmjs.org/package/rss-parser
