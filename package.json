@@ -1,0 +1,33 @@
+{
+  "name": "podcast-parser",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha --exit",
+    "build": "./scripts/build.sh"
+  },
+  "author": "Sanath Samarasinghe",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/xml2js": "^0.4.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^3.4.1",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "puppeteer": "^1.16.0",
+    "webpack": "^3.12.0"
+  },
+  "dependencies": {
+    "entities": "^1.1.1",
+    "xml2js": "^0.4.19"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": "This a enhance version of rss-parser",
+  "keywords": [
+  ]
+}

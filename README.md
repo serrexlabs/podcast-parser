@@ -1,0 +1,1 @@
+This is a fork of  https://npmjs.org/package/rss-parser
